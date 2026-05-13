@@ -18,6 +18,7 @@ The system allows:
 - **Maven**
 - **JUnit & Mockito** (testing)
 
+## How to Run
 1. Import the project into your IDE as a **Maven project**.  
 2. Ensure you have a valid **MySQL** installation.   
 3. Update `application.properties` with your MySQL username and password.  
