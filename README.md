@@ -27,8 +27,8 @@ The system allows:
    http://localhost:8080/
 
 ## Contributors
-- George Kefalas 
-- Filippos Mpatziakas  
+- Filippos Mpatziakas 
+- George Kefalas  
 - Dimitris Papadopoulos
 
 ## Documentation
